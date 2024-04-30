@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Drones.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Drones.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DronesEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Drones">
+      <UniqueIdentifier>{3EB4E033-2F3F-3838-A83C-831137BB9AA9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Drones\AmmoBar.cpp">
+      <Filter>Source\Drones</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Drones\AmmoBar.h">
+      <Filter>Source\Drones</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Drones\Drone.cpp">
+      <Filter>Source\Drones</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Drones\Drone.h">
+      <Filter>Source\Drones</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Drones\Drones.Build.cs">
+      <Filter>Source\Drones</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Drones\Drones.cpp">
+      <Filter>Source\Drones</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Drones\Drones.h">
+      <Filter>Source\Drones</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Drones\Health.cpp">
+      <Filter>Source\Drones</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Drones\Health.h">
+      <Filter>Source\Drones</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Drones\HealthBar.cpp">
+      <Filter>Source\Drones</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Drones\HealthBar.h">
+      <Filter>Source\Drones</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Drones\Pickup.cpp">
+      <Filter>Source\Drones</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Drones\Pickup.h">
+      <Filter>Source\Drones</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Drones\PlayerPanel.cpp">
+      <Filter>Source\Drones</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Drones\PlayerPanel.h">
+      <Filter>Source\Drones</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Drones\RocketProjectile.cpp">
+      <Filter>Source\Drones</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Drones\RocketProjectile.h">
+      <Filter>Source\Drones</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Drones\Turret.cpp">
+      <Filter>Source\Drones</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Drones\Turret.h">
+      <Filter>Source\Drones</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Code\\UE\\Drones\\Source\\Drones\\Drones.Build.cs",
+		"C:\\Code\\UE\\Drones\\Source\\Drones.Target.cs",
+		"C:\\Code\\UE\\Drones\\Source\\DronesEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
